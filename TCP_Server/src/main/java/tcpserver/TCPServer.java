@@ -18,7 +18,7 @@ import util.FileUtility;
 
 /**
  *
- * @author sarkhanrasullu
+ * @author musamammadov
  */
 public class TCPServer {
 
